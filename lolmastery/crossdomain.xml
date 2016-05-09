@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="ASCII"?>
 <cross-domain-policy>
-<allow-http-request-headers-from domain="*" headers="*"/>
+     <allow-access-from domain="http://mattx3.github.io/lol.masteryvisual/lolmastery" />
 </cross-domain-policy>
